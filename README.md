@@ -1,4 +1,4 @@
-# TOPIC: Giám sát bàn phím & Ghi ảnh màn hình
+# Giám sát bàn phím & Ghi ảnh màn hình
 
 ## Tổng quan
 
